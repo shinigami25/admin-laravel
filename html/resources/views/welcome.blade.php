@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-Laracast
+Laura
                 </div>
 
                 <div class="links">
