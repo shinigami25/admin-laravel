@@ -12,9 +12,9 @@
 */
 
 Route::get('/', function () {
-    return 'About US';
+    return view('welcome');
 });
 
 Route::get('/about', function (){
-	return 'About US';
+	return view('about');
 });
