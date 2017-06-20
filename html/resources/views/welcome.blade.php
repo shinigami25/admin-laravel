@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel commit
+                    Laura
                 </div>
 
                 <div class="links">
